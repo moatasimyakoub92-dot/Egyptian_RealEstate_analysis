@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Raw large datasets
+propertyfinder.csv
+Rent.csv
+Sell.csv
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
