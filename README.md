@@ -1,2 +1,2 @@
 # Egyptian_RealEstate_analysis
-Analysis to a 40 thousand property in egypt
+Analysis of 40,000 properties in Egypt
